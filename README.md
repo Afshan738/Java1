@@ -11,7 +11,6 @@ My primary goal is to become proficient in Java. I plan to achieve this by:
 - Gradually moving towards more complex projects.
 - Learning the fundamentals of Object-Oriented Programming (OOP).
 
----
 
 ## Progress Log
 
@@ -25,7 +24,6 @@ Today was all about getting my tools ready and diving into the basics.
 - **Compilation:** Understood the difference between source code (`.java` files) and compiled bytecode (`.class` files) and how the Java compiler (`javac`) and JVM work together.
 - **First Assignments:** Completed my first two hands-on assignments!
 
----
 
 ## Projects Completed
 
